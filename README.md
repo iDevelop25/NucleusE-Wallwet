@@ -10,7 +10,7 @@ Hello everyone. In this time i bring you to a little project. Is a lading page f
 
 
 ## Demo
-If you want to see the demo of this proyect deployed, you can visit [Nucleus](https://idevelop25.github.io/simpleTeamPage/)
+If you want to see the demo of this proyect deployed, you can visit [Nucleus](https://idev-nucleus-hmtl-css.netlify.app/)
 
 ## Preview
 #
